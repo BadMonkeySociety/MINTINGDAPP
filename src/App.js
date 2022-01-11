@@ -385,8 +385,8 @@ function App() {
               textAlign: "center",
               color: "var(--accent-text)",
               backgroundColor: "var(--accent)",
-              padding: 24,
-              borderRadius: 24,
+              padding: 10,
+              borderRadius: 10,
               border: "4px dashed var(--secondary)",
               boxShadow: "0px 5px 11px 2px rgba(0,0,0,0.7)",
             }}
@@ -401,8 +401,8 @@ function App() {
               textAlign: "center",
               color: "var(--accent-text)",
               backgroundColor: "var(--accent)",
-              padding: 24,
-              borderRadius: 24,
+              padding: 10,
+              borderRadius: 10,
               border: "4px dashed var(--secondary)",
               boxShadow: "0px 5px 11px 2px rgba(0,0,0,0.7)",
             }}
