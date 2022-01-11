@@ -378,7 +378,7 @@ function App() {
             />
           </s.Container>
         </ResponsiveWrapper>
-        <s.SpacerMedium />
+        <s.SpacerSmall />
         <s.Container jc={"center"} ai={"center"} style={{ width: "70%" }}>
           <s.TextDescription
             style={{
@@ -395,7 +395,7 @@ function App() {
             {CONFIG.NETWORK.NAME} Mainnet) and the correct address. Please note:
             Once you make the purchase, you cannot undo this action.
           </s.TextDescription>
-          <s.SpacerSmall />
+          <s.SpacerXSmall />
           <s.TextDescription
             style={{
               textAlign: "center",
