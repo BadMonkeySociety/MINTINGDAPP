@@ -384,6 +384,11 @@ function App() {
             style={{
               textAlign: "center",
               color: "var(--accent-text)",
+              backgroundColor: "var(--accent)",
+              padding: 24,
+              borderRadius: 24,
+              border: "4px dashed var(--secondary)",
+              boxShadow: "0px 5px 11px 2px rgba(0,0,0,0.7)",
             }}
           >
             Please make sure you are connected to the right network (
@@ -395,6 +400,11 @@ function App() {
             style={{
               textAlign: "center",
               color: "var(--accent-text)",
+              backgroundColor: "var(--accent)",
+              padding: 24,
+              borderRadius: 24,
+              border: "4px dashed var(--secondary)",
+              boxShadow: "0px 5px 11px 2px rgba(0,0,0,0.7)",
             }}
           >
             We have set the gas limit to {CONFIG.GAS_LIMIT} for the contract to
